@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 echo "paste the link"
 read link
 folder=$PWD/videos/
